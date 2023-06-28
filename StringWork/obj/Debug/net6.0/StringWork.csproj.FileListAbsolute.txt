@@ -1,0 +1,15 @@
+C:\C#\ConsoleProjects\StringWork\bin\Debug\net6.0\StringWork.exe
+C:\C#\ConsoleProjects\StringWork\bin\Debug\net6.0\StringWork.deps.json
+C:\C#\ConsoleProjects\StringWork\bin\Debug\net6.0\StringWork.runtimeconfig.json
+C:\C#\ConsoleProjects\StringWork\bin\Debug\net6.0\StringWork.dll
+C:\C#\ConsoleProjects\StringWork\bin\Debug\net6.0\StringWork.pdb
+C:\C#\ConsoleProjects\StringWork\obj\Debug\net6.0\StringWork.csproj.AssemblyReference.cache
+C:\C#\ConsoleProjects\StringWork\obj\Debug\net6.0\StringWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ConsoleProjects\StringWork\obj\Debug\net6.0\StringWork.AssemblyInfoInputs.cache
+C:\C#\ConsoleProjects\StringWork\obj\Debug\net6.0\StringWork.AssemblyInfo.cs
+C:\C#\ConsoleProjects\StringWork\obj\Debug\net6.0\StringWork.csproj.CoreCompileInputs.cache
+C:\C#\ConsoleProjects\StringWork\obj\Debug\net6.0\StringWork.dll
+C:\C#\ConsoleProjects\StringWork\obj\Debug\net6.0\refint\StringWork.dll
+C:\C#\ConsoleProjects\StringWork\obj\Debug\net6.0\StringWork.pdb
+C:\C#\ConsoleProjects\StringWork\obj\Debug\net6.0\StringWork.genruntimeconfig.cache
+C:\C#\ConsoleProjects\StringWork\obj\Debug\net6.0\ref\StringWork.dll
